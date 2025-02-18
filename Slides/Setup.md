@@ -1,7 +1,7 @@
 ## Core Concept
 This framework uses a modular 4×3 approach (12 core slides) with 4 interchangeable slide modules. Each module contains 4 slides that can be swapped in or out based on audience needs, creating a dynamic presentation system while maintaining quattro balance.
 
-*Note: Title and closing slides are excluded from the quattro structure.
+*Note: Title and closing slides are excluded from the quattro structure.*
 
 ## Modular Structure Overview
 
